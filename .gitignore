@@ -20,12 +20,19 @@
 *.mod
 *.smod
 *.class
+*.jpeg
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
+/JAVA/sqljdbc_7.2/*
+/JAVA/.idea/*
+/JAVA/JDBC/*
+/JAVA/.metadata/*
+/JAVA/TicTacToeProject/*
+/IR/.metadata/*
+/JAVA/filghtscheduler/*
 # Executables
 *.exe
 *.out
