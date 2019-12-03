@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CryTest",
+            "request": "launch",
+            "mainClass": "CryTest",
+            "projectName": "JAVA_4399fb7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example4_7",
+            "request": "launch",
+            "mainClass": "Example4_7",
+            "projectName": "JAVA_4399fb7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        }
+    ]
+}
